@@ -1,0 +1,10 @@
+node_modules/
+.dist/
+dist/
+build/
+coverage/
+.temp/
+.vscode/
+.DS_Store
+.env
+.eslintrc.cjs
